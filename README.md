@@ -22,3 +22,4 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 
+## **About the app**
